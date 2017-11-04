@@ -140,8 +140,9 @@ var resources = [
 				
 var secondaryResources = [
 			["beam", "scaffold", 50],
-            ["steel", "alloy", 75],
+            		["steel", "alloy", 75],
 			["steel", "gear", 15],
+			["starchart", "ship", 25],
 			["slab", "concrate", 2500]
 			]
 
